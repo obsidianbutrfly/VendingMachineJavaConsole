@@ -1,0 +1,4 @@
+Snickers::1.50::10
+Gummy Worms::0.85::5
+Twizzlers::1.10::0
+Cheetos::2.50::-4

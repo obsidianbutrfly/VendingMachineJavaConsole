@@ -1,0 +1,16 @@
+
+2018-05-28T18:47:12.426 : validSelection: Snickers
+2018-05-28T18:47:12.478 : sellItem: Snickers3.00
+2018-05-28T18:47:42.676 : validSelection: Cheetos
+2018-05-28T18:47:42.684 : sellItem: Cheetos2.50
+2018-05-28T18:51:41.396 : validSelection : Gummy Worms
+2018-05-28T18:51:41.451 : sellItem : Gummy Worms3.00
+2018-05-28T19:04:55.370 : validSelection: Snickers
+2018-05-28T19:04:55.425 : sellItem: Snickers4.00
+2018-05-28T20:40:59.097 : boolean com.sg.vendingmachine.service.VendingMachineServiceLayer.validSelection(String): com.sg.vendingmachine.service.VendingMachineNoInventoryException: Sorry, this item is out of stock.Twizzlers
+2018-05-28T20:41:48.108 : BigDecimal com.sg.vendingmachine.service.VendingMachineServiceLayer.sellItem(String,BigDecimal): com.sg.vendingmachine.service.VendingMachineInsufficentFundsException: Sorry, you don't have enough money to buy this item.Gummy Worms0.25
+2018-05-28T20:44:55.696 : validSelection: com.sg.vendingmachine.service.VendingMachineNoInventoryException: Sorry, this item is out of stock.Twizzlers
+2018-05-28T20:45:27.249 : sellItem: com.sg.vendingmachine.service.VendingMachineInsufficentFundsException: Sorry, you don't have enough money to buy this item.Snickers0.25
+2018-05-28T20:47:05.142 : sellItem: com.sg.vendingmachine.service.VendingMachineInsufficentFundsException: Sorry, you don't have enough money to buy this item.Gummy Worms0.50
+2018-05-28T20:48:41.417 : sellItem: com.sg.vendingmachine.service.VendingMachineInsufficentFundsException: Sorry, you don't have enough money to buy this item.Gummy Worms0.10
+2018-05-29T09:50:23.876 : sellItem: com.sg.vendingmachine.service.VendingMachineInsufficentFundsException: Sorry, you don't have enough money to buy this item. Gummy Worms 0.10
